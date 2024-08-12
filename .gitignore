@@ -1,0 +1,25 @@
+# Ignore PyCharm project files
+.idea/
+
+# Ignore user-specific and workspace-specific settings
+*.iml
+*.iws
+
+# Ignore logs and databases
+*.log
+*.sqlite
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+ENV/
+env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS system files (if you're using macOS)
+.DS_Store
