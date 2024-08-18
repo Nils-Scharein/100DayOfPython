@@ -23,3 +23,6 @@ env/
 
 # Ignore macOS system files (if you're using macOS)
 .DS_Store
+/Day35 - Rain Alert/Api.txt
+/Day35 - Rain Alert/coordinates.txt
+/Day35 - Rain Alert/data.json
